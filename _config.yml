@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+# page-img: "/img/website_background.jpg"
 
 # --- Footer options --- #
 
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  #email: "someone@example.com"
   facebook: le.trucanh.31
-  github: daattali
-  twitter: daattali
+  #github: daattali
+  #twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
