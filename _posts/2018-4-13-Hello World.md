@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Why I love what I am doing?
 bigimg: /img/website_background.jpg
 tags: [books, test]
 ---
