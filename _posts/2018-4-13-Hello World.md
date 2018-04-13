@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 subtitle: Why I love what I am doing?
 bigimg: /img/website_background.jpg
-tags: [books, test]
+tags: [beauty]
 ---
 
 Hello World, 
